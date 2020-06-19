@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/361/trunk/src/com/eagle/coders/swing/core/ui/controller
+END
+UIFrameworkAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/360/trunk/src/com/eagle/coders/swing/core/ui/controller/UIFrameworkAdvisor.java
+END
+NavigationBarCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/com/eagle/coders/swing/core/ui/controller/NavigationBarCreator.java
+END
+TaskBarCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/149/trunk/src/com/eagle/coders/swing/core/ui/controller/TaskBarCreator.java
+END
+UIManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/341/trunk/src/com/eagle/coders/swing/core/ui/controller/UIManager.java
+END
+ToolBarCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/com/eagle/coders/swing/core/ui/controller/ToolBarCreator.java
+END

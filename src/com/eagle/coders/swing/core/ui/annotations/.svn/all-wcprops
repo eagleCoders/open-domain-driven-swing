@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/372/trunk/src/com/eagle/coders/swing/core/ui/annotations
+END
+TextArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/113/trunk/src/com/eagle/coders/swing/core/ui/annotations/TextArea.java
+END
+RadioButtons.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10/trunk/src/com/eagle/coders/swing/core/ui/annotations/RadioButtons.java
+END
+Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/327/trunk/src/com/eagle/coders/swing/core/ui/annotations/Action.java
+END
+PropertyBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/com/eagle/coders/swing/core/ui/annotations/PropertyBinding.java
+END
+MultipleExceptDomainObjectPropertyPolicies.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/src/com/eagle/coders/swing/core/ui/annotations/MultipleExceptDomainObjectPropertyPolicies.java
+END
+DomainObjects.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/com/eagle/coders/swing/core/ui/annotations/DomainObjects.java
+END
+StaticPresentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/222/trunk/src/com/eagle/coders/swing/core/ui/annotations/StaticPresentation.java
+END
+DomainProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/com/eagle/coders/swing/core/ui/annotations/DomainProperties.java
+END
+PresentationObjects.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/106/trunk/src/com/eagle/coders/swing/core/ui/annotations/PresentationObjects.java
+END
+UiComponentPosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/113/trunk/src/com/eagle/coders/swing/core/ui/annotations/UiComponentPosition.java
+END
+RadioButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9/trunk/src/com/eagle/coders/swing/core/ui/annotations/RadioButton.java
+END
+UIBindingComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/304/trunk/src/com/eagle/coders/swing/core/ui/annotations/UIBindingComponent.java
+END
+ExceptDomainObjectPropertyPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/372/trunk/src/com/eagle/coders/swing/core/ui/annotations/ExceptDomainObjectPropertyPolicy.java
+END
+EmbedableUseCases.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/324/trunk/src/com/eagle/coders/swing/core/ui/annotations/EmbedableUseCases.java
+END
+UIComponentInterbinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/95/trunk/src/com/eagle/coders/swing/core/ui/annotations/UIComponentInterbinding.java
+END
+ComponentBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/com/eagle/coders/swing/core/ui/annotations/ComponentBinding.java
+END
+DomainObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/339/trunk/src/com/eagle/coders/swing/core/ui/annotations/DomainObject.java
+END
+Actions.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/338/trunk/src/com/eagle/coders/swing/core/ui/annotations/Actions.java
+END
+Form.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/com/eagle/coders/swing/core/ui/annotations/Form.java
+END
+IValidation.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/106/trunk/src/com/eagle/coders/swing/core/ui/annotations/IValidation.java
+END
+DomainTitle.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/74/trunk/src/com/eagle/coders/swing/core/ui/annotations/DomainTitle.java
+END
+EmbedableUseCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/371/trunk/src/com/eagle/coders/swing/core/ui/annotations/EmbedableUseCase.java
+END
+Binding.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/com/eagle/coders/swing/core/ui/annotations/Binding.java
+END
+UnBound.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/src/com/eagle/coders/swing/core/ui/annotations/UnBound.java
+END

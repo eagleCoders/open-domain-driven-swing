@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/162/trunk/src/com/eagle/coders/swing/core/ui/taskbar/utils
+END
+UiRowComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/com/eagle/coders/swing/core/ui/taskbar/utils/UiRowComparator.java
+END
+TaskbarComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/com/eagle/coders/swing/core/ui/taskbar/utils/TaskbarComparator.java
+END
+SortingNavigationBarComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/162/trunk/src/com/eagle/coders/swing/core/ui/taskbar/utils/SortingNavigationBarComparator.java
+END
+UiColumnComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/com/eagle/coders/swing/core/ui/taskbar/utils/UiColumnComparator.java
+END

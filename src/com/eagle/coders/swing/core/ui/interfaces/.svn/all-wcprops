@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/321/trunk/src/com/eagle/coders/swing/core/ui/interfaces
+END
+IDataResultForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/263/trunk/src/com/eagle/coders/swing/core/ui/interfaces/IDataResultForm.java
+END
+IUseCasesContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/321/trunk/src/com/eagle/coders/swing/core/ui/interfaces/IUseCasesContainer.java
+END
+IUiComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/107/trunk/src/com/eagle/coders/swing/core/ui/interfaces/IUiComponent.java
+END
+IToolbar.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/164/trunk/src/com/eagle/coders/swing/core/ui/interfaces/IToolbar.java
+END
+IComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/313/trunk/src/com/eagle/coders/swing/core/ui/interfaces/IComponent.java
+END
+IApplicationCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/src/com/eagle/coders/swing/core/ui/interfaces/IApplicationCreator.java
+END
+IDataToPublish.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/289/trunk/src/com/eagle/coders/swing/core/ui/interfaces/IDataToPublish.java
+END
+INavigationBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/164/trunk/src/com/eagle/coders/swing/core/ui/interfaces/INavigationBar.java
+END
+ITaskBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/320/trunk/src/com/eagle/coders/swing/core/ui/interfaces/ITaskBar.java
+END
+IBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/com/eagle/coders/swing/core/ui/interfaces/IBinding.java
+END
+IButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/39/trunk/src/com/eagle/coders/swing/core/ui/interfaces/IButton.java
+END

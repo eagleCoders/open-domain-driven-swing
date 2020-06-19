@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/280/trunk/src/com/eagle/coders/swing/core/ui/annotations/type
+END
+UIComponentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/105/trunk/src/com/eagle/coders/swing/core/ui/annotations/type/UIComponentType.java
+END
+ComponentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/280/trunk/src/com/eagle/coders/swing/core/ui/annotations/type/ComponentType.java
+END
+StringInputCaseType.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/180/trunk/src/com/eagle/coders/swing/core/ui/annotations/type/StringInputCaseType.java
+END
+TextFiledInputDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/204/trunk/src/com/eagle/coders/swing/core/ui/annotations/type/TextFiledInputDataType.java
+END
+StaticPresentationPolicyType.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/207/trunk/src/com/eagle/coders/swing/core/ui/annotations/type/StaticPresentationPolicyType.java
+END
+DomainPerpertiesAllowType.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/105/trunk/src/com/eagle/coders/swing/core/ui/annotations/type/DomainPerpertiesAllowType.java
+END
+DataSourceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/280/trunk/src/com/eagle/coders/swing/core/ui/annotations/type/DataSourceType.java
+END
+MandatoryType.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/178/trunk/src/com/eagle/coders/swing/core/ui/annotations/type/MandatoryType.java
+END
+NullConstraintType.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/179/trunk/src/com/eagle/coders/swing/core/ui/annotations/type/NullConstraintType.java
+END

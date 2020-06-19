@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/310/trunk/src/com/eagle/coders/swing/core/ui/decorator/widgets/component
+END
+LoginDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/297/trunk/src/com/eagle/coders/swing/core/ui/decorator/widgets/component/LoginDialog.java
+END
+LockDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/297/trunk/src/com/eagle/coders/swing/core/ui/decorator/widgets/component/LockDialog.java
+END
+LockScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/310/trunk/src/com/eagle/coders/swing/core/ui/decorator/widgets/component/LockScreen.java
+END
+LoginWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/310/trunk/src/com/eagle/coders/swing/core/ui/decorator/widgets/component/LoginWidget.java
+END
+ScreenLockWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/310/trunk/src/com/eagle/coders/swing/core/ui/decorator/widgets/component/ScreenLockWidget.java
+END

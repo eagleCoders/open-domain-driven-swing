@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<process name="process-definition" xmlns="http://jbpm.org/4.0/jpdl">
+   <start g="165,37,48,48" name="start">
+      <transition g="-72,-20" name="to exclusive1" to="exclusive1"/>
+   </start>
+   <decision g="166,118,48,48" name="exclusive1">
+      <handler class="com.eagle.coders.swing.kernel.ui.actions.CreateDeleteAction" />
+      <handler class="com.eagle.coders.swing.kernel.ui.actions.CreateDeleteAction"/>
+      <transition g="-46,-20" name="to create" to="create"/>
+      <transition g="2,-18" name="to delete" to="update"/>
+   </decision>
+   <java g="70,217,92,52" method="create" name="create" var="ActionRequest" class="com.eagle.coders.swing.kernel.ui.actions.ProcessAction"/>
+   <java g="209,213,92,52" method="update" name="update" var="ActionRequest" class="com.eagle.coders.swing.kernel.ui.actions.ProcessAction"/>
+</process>

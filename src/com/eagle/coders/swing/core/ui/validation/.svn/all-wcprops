@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/226/trunk/src/com/eagle/coders/swing/core/ui/validation
+END
+PropertyConstraintsHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/184/trunk/src/com/eagle/coders/swing/core/ui/validation/PropertyConstraintsHolder.java
+END
+ObjectValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/226/trunk/src/com/eagle/coders/swing/core/ui/validation/ObjectValidator.java
+END
+ComponentConstraintAssociator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/226/trunk/src/com/eagle/coders/swing/core/ui/validation/ComponentConstraintAssociator.java
+END

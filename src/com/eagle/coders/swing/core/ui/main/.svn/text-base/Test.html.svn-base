@@ -1,0 +1,8 @@
+<html>
+<head>
+	<title>Testing Applet</title>
+</head>
+<body>
+	<applet alt="com.eagle.coders.swing.core.ui.main.MainApp.class" width="300" height="200"></applet>
+</body>
+</html>
